@@ -55,12 +55,8 @@
             "id": "a0cad5150c8bac40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Other/Other knowledge.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -130,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Other/Other knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Other/Other knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming/Other/Other knowledge.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -194,9 +186,16 @@
   },
   "active": "a0cad5150c8bac40",
   "lastOpenFiles": [
-    "Programming/Other/GIT.md",
-    "Programming/Other/Other knowledge.md",
+    "Programming/HTML/Working with Text.md",
+    "Programming/Web/How does the Web Work.md",
+    "Programming/HTML/HTML Encoding.md",
+    "().md",
     "Programming/HTML/HTML.md",
+    "Programming/Other/Emmet.md",
+    "Attc/Pasted image 20231029000952.png",
+    "Attc/Pasted image 20231029000913.png",
+    "Programming/Other/Other knowledge.md",
+    "Programming/Other/GIT.md",
     "Programming/HTML/HTML Boilerplate.md",
     "Programming/HTML/Elements and Tags.md",
     "Programming/HTML",
@@ -207,12 +206,10 @@
     "Attc/Pasted image 20231028233603.png",
     "Programming/Other/Local Version Control Systems.md",
     "Attc/Pasted image 20231028233450.png",
-    "Programming/Web/How does the Web Work.md",
     "Programming/Other/CLI - Linux Commands.md",
     "Programming/Other/Asymmetric Encryption and Symmetric Encryption.md",
     "Programming/Web/Webpage, website, webserver and search engine.md",
     "Programming/SQL/Add, Drop and Rename.md",
-    "Programming/Other/Emmet.md",
     "Programming/Javascript/Fundamentals 5.md",
     "2023-10-28.md",
     "Attc/Pasted image 20231028220703.png",
@@ -220,8 +217,6 @@
     "Attc/Pasted image 20231028220451.png",
     "Attc/Pasted image 20231028220429.png",
     "Attc/Pasted image 20231028220417.png",
-    "Attc/Pasted image 20231028220337.png",
-    "Attc/Pasted image 20231028220300.png",
     "Attc",
     "Programming/Web 1",
     "conflict-files-obsidian-git.md",
