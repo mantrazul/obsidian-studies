@@ -11,4 +11,4 @@ Outra diferença entre MySQL e SQL Server é que o MySQL funciona apenas no idio
 O SQL Server também costuma ser visto pelos usuários como um SGBD mais simples e mais fácil de usar.
 
 
-1. [[1. Add, Drop and Rename]]
+1. [[Add, Drop and Rename]]

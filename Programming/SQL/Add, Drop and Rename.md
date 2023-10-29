@@ -1,6 +1,6 @@
 
 
-### How to add collumns and values #sql
+### How to add collumns and values
 
 You have this table.
 
@@ -32,10 +32,8 @@ SELECT * FROM Employee;
 | 1    | George | F        | fl.com     | Null       |
 | 2    | Rachel | F        | ra.com     | Null       | 
 
->> [!danger]+ Datatypes:
->>
->>VARCHAR(20)
->>INT
+> [!warning] Datatypes:
+>`VARCHAR(20)` | INT
 
 
 
@@ -55,14 +53,14 @@ And we get:
 | 1    | George | F        | fl.com     | Smith      |
 | 2    | Rachel | F        | ra.com     | Null       |
 
-### How to drop collumns  #sql
+### How to drop collumns
 
 ```SQL
 ALTER TABLE table_name
 DROP COLUMN col_name;
 ```
 
-### How to rename collumns  #sql
+### How to rename collumns
 
 ```SQL
 sp_rename 'table_name.col_name', 'new_col_name', 'COLUMN'
