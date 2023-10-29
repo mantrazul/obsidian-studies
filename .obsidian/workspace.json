@@ -38,9 +38,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cbc403c2cab79dc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/HTML/HTML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0cad5150c8bac40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Other/Other knowledge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Other/GIT.md",
+                "file": "Programming/Other/Other knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Other/GIT.md",
+                "file": "Programming/Other/Other knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Other/GIT.md"
+                "file": "Programming/Other/Other knowledge.md"
               }
             }
           }
@@ -168,11 +192,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc386acce78d2f31",
+  "active": "a0cad5150c8bac40",
   "lastOpenFiles": [
-    "Programming/Other/Version Control.md",
     "Programming/Other/GIT.md",
+    "Programming/Other/Other knowledge.md",
+    "Programming/HTML/HTML.md",
+    "Programming/HTML/HTML Boilerplate.md",
+    "Programming/HTML/Elements and Tags.md",
+    "Programming/HTML",
     "Programming/SQL Menu.md",
+    "Programming/Other/Version Control.md",
     "Attc/git-cheat-sheet-education.pdf",
     "Attc/Pasted image 20231028233841.png",
     "Attc/Pasted image 20231028233603.png",
@@ -205,7 +234,6 @@
     "Programming/SQL",
     "Programming/Javascript",
     "Programming/Emmet",
-    "Programming/CSS",
-    "Programming"
+    "Programming/CSS"
   ]
 }
