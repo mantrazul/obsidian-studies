@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/CSS/Advanced Selector.md",
-                "mode": "preview",
+                "file": "Programming/SQL Menu.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/CSS/Advanced Selector.md",
+                "file": "Programming/SQL Menu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/CSS/Advanced Selector.md",
+                "file": "Programming/SQL Menu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/CSS/Advanced Selector.md"
+                "file": "Programming/SQL Menu.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 660.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,11 +156,11 @@
   },
   "active": "5507bfb9c906c245",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Programming/CSS/More Text Styles.md",
     "Programming/CSS/Advanced Selector.md",
+    "Untitled.md",
     "Programming/Web",
     "Programming/CSS/More CSS Properties.md",
-    "Programming/CSS/More Text Styles.md",
     "Programming/Javascript/Fundamentals 5.md",
     "Programming/SQL/Add, Drop and Rename.md",
     "Programming/Untitled.md",
