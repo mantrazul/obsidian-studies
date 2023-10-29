@@ -1,6 +1,6 @@
 
 
-### How to add collumns and values
+### How to add columns and values
 
 You have this table.
 
@@ -10,7 +10,7 @@ You have this table.
 | 2     | Rachel | F       |  ra.com    |
 
 
-You can `ALTER TABLE` thus adding a new Collumn in SQL
+You can `ALTER TABLE` thus adding a new Column in SQL
 
 For instance:
 
@@ -53,14 +53,14 @@ And we get:
 | 1    | George | F        | fl.com     | Smith      |
 | 2    | Rachel | F        | ra.com     | Null       |
 
-### How to drop collumns
+### How to drop columns
 
 ```SQL
 ALTER TABLE table_name
 DROP COLUMN col_name;
 ```
 
-### How to rename collumns
+### How to rename columns
 
 ```SQL
 sp_rename 'table_name.col_name', 'new_col_name', 'COLUMN'

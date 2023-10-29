@@ -1,7 +1,7 @@
-## Fundamentals Part 5 #object #javascript
+## Fundamentals Part 5
 
 - Creating objects
-- Acessing object properties
+- Accessing object properties
 - Being able to use multiple object operators
 - Being able to use more powerful array functions.
 
@@ -59,18 +59,18 @@ let user = {
 };
 ```
 
-You may end the last setence with a comma to facilitate future insertations, this is called "trailling" or "hanging" comma.
+You may end the last sentence with a comma to facilitate future insertions, this is called "trailing" or "hanging" comma.
 
 ### Square brackets
 
-For multiword properties the dot notation doesn't work so use this instead.
+For multi word properties the dot notation doesn't work so use this instead.
 
 ```javascript
 // this would give a syntax error
 user.likes birds = true
 ```
 
-The dot requires the key to be a valid varaible identifier. So it must:
+The dot requires the key to be a valid variable identifier. So it must:
 - contain no spaces
 - doesn't start witha  digit
 - doesn't include special characters ($ and _ are allowed).

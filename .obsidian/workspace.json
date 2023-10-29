@@ -11,56 +11,15 @@
             "id": "e1016057353e0fd0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "33e78f21dafa1b15",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Other/Version Control.md",
+                "file": "Programming/Other/Other knowledge.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "cc386acce78d2f31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Other/GIT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbc403c2cab79dc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/HTML/HTML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0cad5150c8bac40",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/Other/Other knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming/Other/Other knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming/Other/Other knowledge.md"
+              }
             }
           }
         ],
@@ -184,33 +147,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0cad5150c8bac40",
+  "active": "e1016057353e0fd0",
   "lastOpenFiles": [
-    "Programming/HTML/Working with Text.md",
-    "Programming/Web/How does the Web Work.md",
-    "Programming/HTML/HTML Encoding.md",
-    "().md",
+    "Programming/Javascript/Fundamentals 5.md",
     "Programming/HTML/HTML.md",
-    "Programming/Other/Emmet.md",
+    "Programming/HTML/scr/Links and Images.md",
+    "Data types.md",
+    "Programming/Web/How does the Web Work.md",
+    "Programming/Web/Webpage, website, webserver and search engine.md",
+    "Programming/SQL/Add, Drop and Rename.md",
+    "Programming/Other/Other knowledge.md",
+    "Programming/HTML/scr/Lists.md",
+    "Programming/HTML/scr/HTML Encoding.md",
+    "Programming/Other/scr/Version Control.md",
+    "Programming/Other/scr",
+    "Programming/HTML/scr",
+    "Programming/Other/scr/GIT.md",
+    "Programming/Other/scr/Local Version Control Systems.md",
+    "Programming/HTML/scr/Working with Text.md",
+    "().md",
+    "Programming/Other/scr/Emmet.md",
     "Attc/Pasted image 20231029000952.png",
     "Attc/Pasted image 20231029000913.png",
-    "Programming/Other/Other knowledge.md",
-    "Programming/Other/GIT.md",
-    "Programming/HTML/HTML Boilerplate.md",
-    "Programming/HTML/Elements and Tags.md",
+    "Programming/HTML/scr/HTML Boilerplate.md",
+    "Programming/HTML/scr/Elements and Tags.md",
     "Programming/HTML",
     "Programming/SQL Menu.md",
-    "Programming/Other/Version Control.md",
     "Attc/git-cheat-sheet-education.pdf",
     "Attc/Pasted image 20231028233841.png",
     "Attc/Pasted image 20231028233603.png",
-    "Programming/Other/Local Version Control Systems.md",
     "Attc/Pasted image 20231028233450.png",
-    "Programming/Other/CLI - Linux Commands.md",
-    "Programming/Other/Asymmetric Encryption and Symmetric Encryption.md",
-    "Programming/Web/Webpage, website, webserver and search engine.md",
-    "Programming/SQL/Add, Drop and Rename.md",
-    "Programming/Javascript/Fundamentals 5.md",
+    "Programming/Other/scr/CLI - Linux Commands.md",
+    "Programming/Other/scr/Asymmetric Encryption and Symmetric Encryption.md",
     "2023-10-28.md",
     "Attc/Pasted image 20231028220703.png",
     "Attc/Pasted image 20231028220551.png",
@@ -224,11 +192,8 @@
     "Programming/CSS/Advanced Selector.md",
     "Programming/Web",
     "Programming/CSS/More CSS Properties.md",
-    "Programming/Untitled.md",
     "Programming/Other",
     "Programming/SQL",
-    "Programming/Javascript",
-    "Programming/Emmet",
-    "Programming/CSS"
+    "Programming/Javascript"
   ]
 }
