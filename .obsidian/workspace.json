@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16c2296073c6f101",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/CSS/scr/Intro to CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Other/Other knowledge.md",
+                "file": "Programming/CSS/scr/Intro to CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Other/Other knowledge.md",
+                "file": "Programming/CSS/scr/Intro to CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Other/Other knowledge.md"
+                "file": "Programming/CSS/scr/Intro to CSS.md"
               }
             }
           }
@@ -147,8 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1016057353e0fd0",
+  "active": "16c2296073c6f101",
   "lastOpenFiles": [
+    "Programming/CSS/CSS.md",
+    "Programming/CSS/scr/Intro to CSS.md",
+    "Attc/Pasted image 20231029202259.png",
+    "Programming/Other/Other knowledge.md",
+    "Programming/CSS/scr",
     "Programming/Javascript/Fundamentals 5.md",
     "Programming/HTML/HTML.md",
     "Programming/HTML/scr/Links and Images.md",
@@ -156,7 +174,6 @@
     "Programming/Web/How does the Web Work.md",
     "Programming/Web/Webpage, website, webserver and search engine.md",
     "Programming/SQL/Add, Drop and Rename.md",
-    "Programming/Other/Other knowledge.md",
     "Programming/HTML/scr/Lists.md",
     "Programming/HTML/scr/HTML Encoding.md",
     "Programming/Other/scr/Version Control.md",
@@ -184,16 +201,11 @@
     "Attc/Pasted image 20231028220551.png",
     "Attc/Pasted image 20231028220451.png",
     "Attc/Pasted image 20231028220429.png",
-    "Attc/Pasted image 20231028220417.png",
     "Attc",
     "Programming/Web 1",
     "conflict-files-obsidian-git.md",
-    "Programming/CSS/More Text Styles.md",
-    "Programming/CSS/Advanced Selector.md",
     "Programming/Web",
-    "Programming/CSS/More CSS Properties.md",
     "Programming/Other",
-    "Programming/SQL",
-    "Programming/Javascript"
+    "Programming/SQL"
   ]
 }
