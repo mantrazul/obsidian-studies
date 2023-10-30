@@ -1,7 +1,9 @@
 ## Foundation
 ### [[Intro to CSS]]
 
+### [[Properties to get started with]]
 
+### [[Adding CSS to HTML]]
 
 ## Intermediate
 ### [[Advanced Selector]]
