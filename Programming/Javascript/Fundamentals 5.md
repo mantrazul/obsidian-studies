@@ -33,7 +33,7 @@ In the `user` object, there are two properties:
 1. The first property has the name `name` and the value `John`.
 2.  The second one has the name `age` and the value `30`.
 
-You can acess the properties with *dot notation*.
+You can access the properties with *dot notation*.
 
 ```javascript
 // get property values of the object:
@@ -72,7 +72,7 @@ user.likes birds = true
 
 The dot requires the key to be a valid variable identifier. So it must:
 - contain no spaces
-- doesn't start witha  digit
+- doesn't start with a  digit
 - doesn't include special characters ($ and _ are allowed).
 
 The alternative is the *square bracket notation*.
@@ -118,5 +118,4 @@ alert( user[key] ); // John (if enter "name")
 ```ad-info
 title: Important
 The dot notation cannot be used in a similar way!!
-
 ```

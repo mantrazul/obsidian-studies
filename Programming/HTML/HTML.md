@@ -1,5 +1,5 @@
 
-HTML (HyperText Markup Language) defines the structure and content of webpages. We use HTML elements to create all of the paragraphs, headings, lists, images, and links that make up a typical webpage. In this lesson, we will explore how HTML elements work.
+HTML (Hyper Text Markup Language) defines the structure and content of web pages. We use HTML elements to create all of the paragraphs, headings, lists, images, and links that make up a typical web page. In this lesson, we will explore how HTML elements work.
 
 #### [[Elements and Tags]]
 Introduces what are Elements and Tags
@@ -17,4 +17,7 @@ Know more about UTF-8 character encoding.
 Unordered lists and ordered lists.
 #### [[Links and Images]]
 
+#### [[HTTP Request Method]]
+
+### [[Form Validation]]
 

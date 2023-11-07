@@ -1,4 +1,4 @@
-# Advanced Selectors #CSS
+# Advanced Selectors
 
 ## Introduction
 This selectors should meet the need of more precision if you don't want to mess with the html.
