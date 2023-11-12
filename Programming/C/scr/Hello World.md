@@ -75,3 +75,86 @@ Each of these approaches could be called algorithms. The speed of each of these 
 
 > [!NOTE]
 > Notice that the first algorithm, highlighted in red, has a big-O of `n` because if there are 100 names in the phone book, it could take up to 100 tries to find the correct name. The second algorithm, where two pages were searched at a time, has a big-O of ‘n/2’ because we searched twice as fast through the pages. The final algorithm has a big-O of log2n as doubling the problem would only result in one more step to solve the problem.
+
+### Functions
+
+The statement at the start of the code `#include <stdio.h>` is a very special command that tells the compile that you want to use the capabilities of _library_ called `stdio.h`. This allows you, among many other things, to utilize the `printf` function. You can read about all the capabilities of this library on the [Manual Pages](https://manual.cs50.io/).
+
+```C
+int maing(void)
+{
+	printf("hello, world\n");
+}
+```
+
+
+### Variable
+
+```C
+int main(void)
+{
+	string answer = get_string("What's your name? ");
+	printf("heelo, %s\n", answer);
+}
+```
+
+Running `make hello` again in the terminal window, you can run your program by typing `./hello`. The program now asks for your name and then says hello with your name attached.
+
+### Conditionals
+
+```c
+int main(void)
+{
+	int x = get_int("What's x? ");
+	int y = get_int("What's y? ");
+	if (x < y)
+	{
+		printf("x is less than y\n");
+	}
+	else if (x > y)
+	{
+		printf("x is greater than y\n");
+	}
+	else
+	{
+		printf("x is equal to y\n");
+	}
+}
+```
+
+```C
+#include <cs50.h>
+#include <stdio.h>
+
+int main(void)
+{
+    // Prompt user to agree
+    char c = get_char("Do you agree? ");
+
+    // Check whether agreed
+    if (c == 'Y' || c == 'y')
+    {
+        printf("Agreed.\n");
+    }
+    else if (c == 'N' || c == 'n')
+    {
+        printf("Not agreed.\n");
+    }
+}
+```
+
+Notice that single quotes are utilized for single characters. Further, notice that `==` ensure that something _is equal_ to something else, where a single equal sign would have a very different function in C. Finally, notice that `||` effectively means _or_.
+
+### Loop
+
+```C
+int main(void)
+{
+	int i = 0
+	while (i < 3)
+	{
+		printf("meow");
+		i++;
+	}
+}
+```
