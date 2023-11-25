@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Javascript/Untitled.md",
+                "file": "Programming/Javascript/Fundamentals 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1776aa025a72676",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Javascript/Objects.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Javascript/Untitled.md",
+                "file": "Programming/Javascript/Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Javascript/Untitled.md",
+                "file": "Programming/Javascript/Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Javascript/Untitled.md"
+                "file": "Programming/Javascript/Objects.md"
               }
             }
           }
@@ -170,10 +182,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2fdae305063c3aa",
+  "active": "f1776aa025a72676",
   "lastOpenFiles": [
     "Programming/Javascript/Fundamentals 5.md",
+    "Programming/Other/Other knowledge.md",
     "Programming/Javascript/Untitled.md",
+    "Programming/Javascript/Objects.md",
+    "Programming/HTML/scr/Form Validation.md",
     "Programming/C/scr/Hello World.md",
     "Attc/Pasted image 20231109202025.png",
     "Attc/Pasted image 20231109201630.png",
@@ -182,7 +197,6 @@
     "Attc/Pasted image 20231109200831.png",
     "Programming/CSS/CSS.md",
     "Untitled.canvas",
-    "Programming/HTML/scr/Form Validation.md",
     "Programming/C/scr",
     "Programming/C",
     "Programming/HTML/HTML.md",
@@ -191,7 +205,6 @@
     "Programming/CSS/scr/css-exercises.md",
     "Programming/CSS/scr/04. chaining-selectors.md",
     "Attc/Pasted image 20231031104156.png",
-    "Programming/Other/Other knowledge.md",
     "Programming/CSS/scr/Advanced Selector.md",
     "Pasted image 20230728194056.png.md",
     "Programming/CSS/scr/03. grouping-selectors.md",
@@ -207,7 +220,6 @@
     "Attc/Pasted image 20231029202259.png",
     "Programming/CSS/scr",
     "Programming/HTML/scr/Links and Images.md",
-    "Data types.md",
     "Programming/Other/scr",
     "Programming/HTML/scr",
     "Attc/Pasted image 20231029000952.png",
