@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "18742b9e8c0fb788",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Array Studies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Javascript/Objects.md",
+                "file": "Array Studies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Javascript/Objects.md",
+                "file": "Array Studies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Javascript/Objects.md"
+                "file": "Array Studies.md"
               }
             }
           }
@@ -182,12 +194,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1776aa025a72676",
+  "active": "18742b9e8c0fb788",
   "lastOpenFiles": [
+    "Programming/Javascript/Objects.md",
+    "Array Studies.md",
     "Programming/Javascript/Fundamentals 5.md",
     "Programming/Other/Other knowledge.md",
     "Programming/Javascript/Untitled.md",
-    "Programming/Javascript/Objects.md",
     "Programming/HTML/scr/Form Validation.md",
     "Programming/C/scr/Hello World.md",
     "Attc/Pasted image 20231109202025.png",
@@ -219,7 +232,6 @@
     "Programming/CSS/scr/Intro to CSS.md",
     "Attc/Pasted image 20231029202259.png",
     "Programming/CSS/scr",
-    "Programming/HTML/scr/Links and Images.md",
     "Programming/Other/scr",
     "Programming/HTML/scr",
     "Attc/Pasted image 20231029000952.png",

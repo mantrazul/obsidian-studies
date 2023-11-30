@@ -16,4 +16,32 @@ let user = {};
 
 ### Literals and properties
 
-We can put some properties into `{...}` as "key:value"
+We can put some properties into `{...}` as "key:value" pairs:
+
+```javascript
+let user = {       // an object
+name: "John",      // by key "name" store value "john"
+age: 30            // by key "age" store value 30
+};
+```
+
+A property has a key (also known as a name or identifier) before the colon `:` and a value to the right of it.
+
+In the `user` object, there are two properties:
+
+1. The first property has the name "name" and the value "John"
+2. The second one has the name "age" and the value `30`
+
+The resulting `user` object can be imagined as a cabinet with two signed files labelled "name" and "age".
+
+#### How to access properties
+```javascript
+alert( user.name ); // John
+alert( user.age); // 30
+```
+
+The value can be any type. Let's add a boolean one:
+
+```javascript
+user.isAdmin = true
+```
